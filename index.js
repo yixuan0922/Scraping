@@ -1,6 +1,14 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs');
+const path = require('path');
 
 async function fetchTimeOutHotList() {
+
+    // const hotListJson = fs.readFileSync('data/timeoutHotList.txt', 'utf8');
+    // const fetchedHotList = JSON.parse(hotListJson);
+    // console.log(fetchedHotList[0].title);
+
+
     const browser = await puppeteer.launch({
         // headless: false
     });
@@ -83,5 +91,7 @@ async function fetchTimeOutHotList() {
 }
 
 fetchTimeOutHotList().then((events) => {
-    events.forEach((event) => console.log(event));
+    const eventsJson = JSON.stringify(events, null, 2);
+    scrapePath = path.join(__dirname, 'data', 'timeoutHotList.txt');
+    fs.writeFileSync(scrapePath, eventsJson);
 }).catch((error) => console.error(error));
