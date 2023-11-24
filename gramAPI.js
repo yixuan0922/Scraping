@@ -45,7 +45,7 @@ if (fetchedMessages.length > 0) {
         const targetDate = new Date("2023-11-09");
         const targetTimestamp = Math.floor(targetDate.getTime() / 1000);
         let messagesCount = 0
-        for await (const message of client.iterMessages("good2gosg")) {
+        for await (const message of client.iterMessages("findplango")) {
             messagesCount += 1;
             console.log(`
             adding messages
@@ -73,7 +73,7 @@ if (fetchedMessages.length > 0) {
                 message: message.message,
                 date: formattedDate,
                 forwards: message.forwards, 
-                reactions: message.reactions,
+                // reactions: message.reactions,
             }
             if (message.media){
                 // console.log('there is a media')

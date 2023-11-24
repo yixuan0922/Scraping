@@ -9,9 +9,13 @@
   "author": "Yi Xuan",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.6.2",
+    "chance": "^1.1.11",
     "dotenv": "^16.3.1",
     "input": "^1.0.1",
+    "node-cron": "^3.0.3",
     "puppeteer": "^21.5.1",
+    "sharp": "^0.32.6",
     "telegram": "^2.19.10"
   }
 }

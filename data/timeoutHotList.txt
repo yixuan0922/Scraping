@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "title": "Amazon.sg Holiday Market",
+    "imgSrc": "https://media.timeout.com/images/106062201/750/562/image.jpg",
+    "url": "https://www.timeout.com/singapore/things-to-do/amazon-sg-holiday-market",
+    "dateTime": "Until 24 Nov 2023",
+    "address": "Suntec City Mall, Suntec City, 3 Temasek Boulevard, Singapore, 038983",
+    "price": "Free"
+  },
+  {
+    "title": "Qanvast Hangout",
+    "imgSrc": "https://media.timeout.com/images/106066025/750/562/image.jpg",
+    "url": "https://www.timeout.com/singapore/things-to-do/qanvast-hangout",
+    "dateTime": "25 Nov26 Nov 2023",
+    "address": "Marina Square, 6 Raffles Boulevard, Singapore, 039594",
+    "price": "Free"
+  },
+  {
+    "title": "Cartoons Underground",
+    "imgSrc": "https://media.timeout.com/images/106066070/750/562/image.jpg",
+    "url": "https://www.timeout.com/singapore/film/cartoons-underground",
+    "dateTime": "25 Nov 2023",
+    "address": "The Projector, Level 5 Golden Mile Tower, 6001 Beach Rd, Singapore, 199589",
+    "price": "$18"
+  },
+  {
+    "title": "Mars: The Red Mirror",
+    "imgSrc": "https://media.timeout.com/images/106058584/750/562/image.jpg",
+    "url": "https://www.timeout.com/singapore/art/mars-the-red-mirror",
+    "dateTime": "25 Nov 20237 Apr 2024",
+    "address": "ArtScience Museum, Marina Bay Sands, 6 Bayfront Avenue, Singapore, 018974",
+    "price": "$20 (Singaporeans and PRs), $23 (Tourists)"
+  },
+  {
+    "title": "Singapore Migrant Worker Poetry Competition",
+    "imgSrc": "https://media.timeout.com/images/106057021/750/562/image.jpg",
+    "url": "https://www.timeout.com/singapore/art/singapore-migrant-worker-poetry-competition",
+    "dateTime": "26 Nov 2023",
+    "address": "The Pod, Level 16, NLB Building, 100 Victoria Street, Singapore, 188064",
+    "price": "Free"
+  },
+  {
+    "title": "Poinsettia Wishes – A Nordic Christmas Adventure",
+    "imgSrc": "https://media.timeout.com/images/106059618/750/562/image.jpg",
+    "url": "https://www.timeout.com/singapore/things-to-do/poinsettia-wishes-a-nordic-christmas-adventure",
+    "dateTime": "Until 1 Jan 2024",
+    "address": "Gardens by the Bay, 18 Marina Gardens Dr, Singapore, 018953",
+    "price": "Adult $12, child $8 (Singapore residents)"
+  },
+  {
+    "title": "Cluny Court Christmas Fair",
+    "imgSrc": "https://media.timeout.com/images/106062643/750/562/image.jpg",
+    "url": "https://www.timeout.com/singapore/things-to-do/cluny-court-christmas-fair-1",
+    "dateTime": "Until 17 Dec 2023",
+    "address": "Cluny Court, 501 Bukit Timah Rd, Singapore, 259760",
+    "price": "Free"
+  },
+  {
+    "title": "Disney Princess – The Concert",
+    "imgSrc": "https://media.timeout.com/images/106047888/750/562/image.jpg",
+    "url": "https://www.timeout.com/singapore/theatre/disney-princess-concert",
+    "dateTime": "26 Nov27 Nov 2023",
+    "address": "Esplanade Theatres on the Bay, 1 Esplanade Dr, Singapore, 038981",
+    "price": "From $78"
+  },
+  {
+    "title": "Tropical: Stories from Southeast Asia and Latin America",
+    "imgSrc": "https://media.timeout.com/images/106039952/750/562/image.jpg",
+    "url": "https://www.timeout.com/singapore/art/tropical-stories-from-southeast-asia-and-latin-america",
+    "dateTime": "Until 24 Mar 2024",
+    "address": "National Gallery Singapore, 1 St Andrew’s Rd, Singapore, 178957",
+    "price": "$15 for Singaporeans/PRs, $25 for Tourists"
+  },
+  {
+    "title": "Alvvays",
+    "imgSrc": "https://media.timeout.com/images/106023872/750/562/image.jpg",
+    "url": "https://www.timeout.com/singapore/music/alvvays",
+    "dateTime": "24 Nov 2023",
+    "address": "Capitol Theatre, Capitol Piazza, 11 Stamford Rd, Singapore, 178905",
+    "price": null
+  },
+  {
+    "title": null,
+    "imgSrc": null,
+    "url": null,
+    "dateTime": null
+  },
+  {
+    "title": null,
+    "imgSrc": null,
+    "url": null,
+    "dateTime": null
+  },
+  {
+    "title": null,
+    "imgSrc": null,
+    "url": null,
+    "dateTime": null
+  },
+  {
+    "title": null,
+    "imgSrc": null,
+    "url": null,
+    "dateTime": null
+  }
+]

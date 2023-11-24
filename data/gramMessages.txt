@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "messageId": 940,
+    "message": "🎟 Marsiling Tunnel Adventure\n\n💸 From $10\n\n📍 Marsiling Tunnels, Admiralty Road West\n\n🗓 18 Nov (Sat)\n\n⏱ 8.30am to 11.30am\n\n📝 Embark on an adrenaline-pumping journey organised by NTU Alumni Club. Traverse an uninhabited rainforest, uncovering an abandoned WWII tunnel with chills, thrills, and a significant historical legacy. Not for the faint-hearted, join fellow adventurers in exploring the dark mysteries of our past.\n\n👩‍💻 More information: bit.ly/49utLkt\n\n#couples #family #recreationalactivities #belowSGD20\n\nFor more fun activities, subscribe to @findplango",
+    "date": "11/13/2023 7:31:09 PM",
+    "forwards": 60,
+    "photoPath": "/Users/yilonmusk/Documents/GitHub/Scraping/data/photos/940.jpg"
+  },
+  {
+    "messageId": 939,
+    "message": "🎟 A Night At The Museum\n\n💸 $30.24\n\n📍 Victoria Theatre, 9 Empress Place, S179556\n\n🗓12 Nov (Sun)\n\n⏱ 7.30pm\n\n📝 Join Étude Dance Studio for their inaugural dance concert, where the dancers bring history to life through mesmerizing performances in Ballet, Contemporary, Jazz, and Kpop. Don't miss the magical collaboration with Artysticks Drum Academy. It's an entertaining evening for all ages!\n\n👩‍💻 More information: bit.ly/3stxoq6\n\n#couples #family #recreationalactivities #SGD20to50\n\nFor more fun activities, subscribe to @findplango",
+    "date": "11/12/2023 10:01:32 AM",
+    "forwards": 10,
+    "photoPath": "/Users/yilonmusk/Documents/GitHub/Scraping/data/photos/939.jpg"
+  },
+  {
+    "messageId": 938,
+    "message": "🎟 WB100 Celebrating Every Story - Interactive Zones, Screenings & Limited Edition Goodies @ Sentosa\n \n💸 Free admission\n  \n📍Islandwide in Sentosa (see link below for more details)⁠\n  \n🗓 10 Nov to 26 Nov\n  \n⏱ From 11am\n  \n📝 It's the party you can't miss! From interactive zones to exclusive limited edition goodies, dive into the action in Sentosa! \n\nStep back in time at WB100 Central: Uncover the Epic Journey of Warner Bros. from 1923! Get your own Warner Bros. passport and collect stamps to WIN big, including a Sentosa staycation!\n\nGet Animated at the WB Animation Zone: Hang Out with Tom and Jerry! From behind-the-scenes magic to interactive games, it's a purr-fect way to spend your day! \n\nAlso, don't miss out on the Movie Magic! Catch screenings of All-Time Favourite Warner Bros. Movies! It's a blast from the past that'll leave you wanting more!\n  \n👩‍💻More information: bit.ly/3u9raMK\n  \n#couples #family #free #recreationalactivities\n  \nFor more fun activities, subscribe to @findplango",
+    "date": "11/11/2023 10:02:05 AM",
+    "forwards": 62,
+    "photoPath": "/Users/yilonmusk/Documents/GitHub/Scraping/data/photos/938.jpg"
+  },
+  {
+    "messageId": 937,
+    "message": "🎟 Movies in the Wild\n\n💸 Starting from $49.50 (inclusive of park admission)\n\n📍 River Wonders, 80 Mandai Lake Rd, S729826\n\n🗓 11 Nov to 23 Dec\n\n⏱ Selected Saturdays at 7.45pm\n\n📝 Movies in the Wild features romantic, comedy, and action flicks with the world’s largest freshwater aquarium as a backdrop. Catch movies like \"500 Days of Summer,\" \"50 First Dates,\" and \"Jumanji: Welcome to the Jungle\" as manatees, giant river otters, and more freshwater species swim gracefully by. Every ticket is inclusive of admission to the Singapore Zoo, Night Safari, or River Wonders too, so you can have a full-day date with friends or that special someone!\n\n👩‍💻 More Information / Book Now: bit.ly/3QKQJMS\n\n#couples #family #SGD20to50 #recreationalactivities\n\nFor more fun activities, subscribe to @findplango",
+    "date": "11/10/2023 7:32:21 PM",
+    "forwards": 50,
+    "photoPath": "/Users/yilonmusk/Documents/GitHub/Scraping/data/photos/937.jpg"
+  },
+  {
+    "messageId": 936,
+    "message": "🎟 Pups & Pints\n\n💸 Free Entry\n\n📍 Venusology Cafe (Pets Allowed), Phoenix Park, S247979\n\n🗓 11 Nov (Sat)\n\n⏱ 4pm to 8pm\n\n📝 Have a tail-wagging good time filled with furry friends, delicious food, games, and shopping at Pups & Pints. Whether you're a dog owner or just love being around adorable pups, this is the pawfect event for you. So grab a pup, grab a pint, and have a good time at Pups & Pints!\n\n👩‍💻 More Information: bit.ly/3Six5ZZ\n\n#couples #family #free #recreationalactivities\n\nFor more fun activities, subscribe to @findplango",
+    "date": "11/9/2023 7:31:52 PM",
+    "forwards": 47,
+    "photoPath": "/Users/yilonmusk/Documents/GitHub/Scraping/data/photos/936.jpg"
+  },
+  {
+    "messageId": 934,
+    "message": "🎟 Sentosa Festival Market - French Flair\n \n💸 Free admission\n  \n📍Palawan Beach Walk⁠\n  \n🗓 11 Nov (Sat) & 12 Nov (Sun)\n  \n⏱ 10am to 7pm\n  \n📝 Head down to Sentosa for a day of fun under the sun, and also don't forget to check out the festival market at Palawan Beach Walk which theme is French Flair! There would be face painting, temporary tattoos, tarot reading and pet portraits and food truck amongst others! And you'd be able to bring your pets too ☺️\n  \n👩‍💻More information: bit.ly/40jDeH5\n  \n#couples #family #free #recreationalactivities\n  \nFor more fun activities, subscribe to @findplango",
+    "date": "11/8/2023 7:32:12 PM",
+    "forwards": 76,
+    "photoPath": "/Users/yilonmusk/Documents/GitHub/Scraping/data/photos/934.jpg"
+  },
+  {
+    "messageId": 933,
+    "message": "🎟 Asian Canoe Polo Championships (ACPC) 2023 by Singapore Canoe Federation (SCF)\n\n💸 Free admission\n\n📍 Marina Bay Waterfront Promenade, 12A Bayfront Ave, S018970\n\n🗓 9 Nov (Thu) to 12 Nov (Sun)\n\n⏱ 9am to 10pm daily (matches 9am to 6pm daily)\n\n📝 Witness thrilling canoe polo matches at ACPC 2023 in the picturesque Marina Bay waterfront. There will also be an exciting carnival with food and games available for purchase, making it an engaging and fun-filled day for young and old alike.\n\n🎁 Attendees who complete survey at bit.ly/acpc23survey can get a free gift from the SCF merch booth on-site\n\n👩‍💻 More information: bit.ly/3ua4MTe\n\n📲 Follow SCF’s Instagram for more exciting canoeing events: bit.ly/3Qrbqw2\n\nForward this post to a friend! #acpc23 #singaporecanoe #singaporecanoefederation #scf\n\nFor more fun activities, subscribe to @findplango",
+    "date": "11/7/2023 7:31:32 PM",
+    "forwards": 35,
+    "photoPath": "/Users/yilonmusk/Documents/GitHub/Scraping/data/photos/933.jpg"
+  },
+  {
+    "messageId": 932,
+    "message": "🎟 From Beyond The Sea - Art Exhibition\n \n💸 Free\n  \n📍ARTTRIO, 133-135 Tanglin Road, S247926\n  \n🗓 Now till 30 Nov\n  \n⏱Tue to Sat: 11am to 6.30pm\n  \n📝  This exhibition, set in the far reaches of Singapore’s shores, draws its inspiration from the shared elements of Japan and Singapore; the boundless sea, tranquil lakes, and cascading waterfalls. Its captivating exploration unfolds through artworks intertwined with the mysteries of water, inviting you to embark on a journey of curiosity and wonder!\n  \n👩‍💻More information: bit.ly/3SpeueR\n  \n#couples #family #free #art\n  \nFor more fun activities, subscribe to @findplango",
+    "date": "11/6/2023 7:31:31 PM",
+    "forwards": 91,
+    "photoPath": "/Users/yilonmusk/Documents/GitHub/Scraping/data/photos/932.jpg"
+  },
+  {
+    "messageId": 931,
+    "message": "🎟 1 for 1 Acai Bowls\n \n💸 1 for 1 Large Bowls / Medium Hawaiian Bowls\n  \n📍One Raffles Place, #B1-39\n  \n🗓 Every Thursday\n  \n⏱ 12pm to 2pm\n  \n📝 CBD workers, you're in for a treat! This provides an added incentive for workers to WFO on Thursday, because you will be able to enjoy 1 for 1 acai bowls at Randy Indulgence Acai Bar from 12pm to 2pm! Head down with your co-workers! No limit as to the number of 1 for 1 bowls you can order!\n  \n👩‍💻More information: bit.ly/478LCeR\n  \n#couples #family #belowSGD20 #food\n  \nFor more fun activities, subscribe to @findplango",
+    "date": "11/5/2023 10:01:30 AM",
+    "forwards": 70,
+    "photoPath": "/Users/yilonmusk/Documents/GitHub/Scraping/data/photos/931.jpg"
+  },
+  {
+    "messageId": 930,
+    "message": "🎟 Ladies Date - Chair Yoga\n\n💸 Free\n\n📍 51 Cuppage Road, S229469\n\n🗓 7 Nov (Tue)\n\n⏱ 7pm to 8pm\n\n📝 Are you feeling cooped up and in need of relaxation and exercise? Join this free Chair Yoga session to learn simple chair yoga techniques that you can even do at work!\n\n👩‍💻 More Information: bit.ly/478MCQ9\n\n#couples #family #free #recreationalactivities\n\nFor more fun activities, subscribe to @findplango",
+    "date": "11/4/2023 10:01:32 AM",
+    "forwards": 17,
+    "photoPath": "/Users/yilonmusk/Documents/GitHub/Scraping/data/photos/930.jpg"
+  }
+]
